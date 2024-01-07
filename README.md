@@ -12,3 +12,9 @@
 ### Implement an algorithmic trading strategy that uses machine learning to automate the trade decisions.
 ### Adjust the input parameters to optimize the trading algorithm.
 ### Train a new machine learning model and compare its performance to that of a baseline model.
+
+## What impact resulted from increasing or decreasing the training window?
+### After increasing the training window to 10 months instead of 3 months, the accuracy of the predictions increased by 1%. After decreasing the training window to 1 month, the accuracy of the predictions did not change. 
+
+## What impact resulted from increasing or decreasing either or both of the SMA windows?
+### I increased the short_window to 10 and the long window to 200 and the accuracy reported on the classification report remained relatively unchanged. It had a 1% increase.
